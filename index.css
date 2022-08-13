@@ -1,5 +1,6 @@
 body{
-    background-color: pink
+    background-color: pink;
+    background-size: cover;
 }
 h1{
     font-size:40px;
